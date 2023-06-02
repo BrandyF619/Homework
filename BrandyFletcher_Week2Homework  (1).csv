@@ -1,0 +1,21 @@
+﻿Semester Grades,,,,
+,,,,
+,Student Name,Age,Grade,Class
+,Sarah Ashworth ,12,85,Social Studies
+,Amanda Johnson ,11,72,Social Studies
+,David Cline ,13,60,Social Studies
+,Matthew Robert,12,95,Social Studies
+,Sierra Chadwick,14,88,Social Studies
+,Ronnie Dangerfield,12,99,Social Studies
+,Thomas Cruise ,11,75,Social Studies
+,Bradley Swickerwrath,13,100,Social Studies
+,Gracie Smith ,13,75,Social Studies
+,John McDonald,15,85,Social Studies
+,Raymond James,11,85,Social Studies
+,,,,
+,MIN,11,60,
+,MAX,15,100,
+,AVG,12.41666667,83.66666667,
+,MODE,12,85,
+,MEDIAN,12,85,
+COUNT,11,,,
